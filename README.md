@@ -13,7 +13,7 @@ Skill portabel untuk merancang, membuat, dan menguji motion website. Mencakup sc
 
 Installer Kern Studio menyalin skill beserta file pendukung ke `~/.pi/agent/skills/motion-web-design`. Metadata `agents/openai.yaml` bersifat opsional untuk Codex; inti skill memakai Markdown dengan YAML frontmatter dan tidak bergantung pada Codex atau MCP tertentu.
 
-Repo ini private. Akun Git pada mesin yang menjalankan Kern Studio perlu memiliki akses ke repo. Jika preview gagal karena autentikasi, selesaikan autentikasi GitHub untuk operasi Git HTTPS terlebih dahulu, lalu ulangi preview.
+Repo ini public. Kern Studio dapat melakukan clone melalui HTTPS tanpa login GitHub.
 
 ## Pemakaian
 
