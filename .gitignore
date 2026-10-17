@@ -1,0 +1,4 @@
+.DS_Store
+.crc-provenance.json
+__pycache__/
+*.pyc

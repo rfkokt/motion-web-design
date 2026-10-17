@@ -1,0 +1,4 @@
+interface:
+  display_name: "Web Motion Design"
+  short_description: "Purposeful, responsive web animation and scroll stories"
+  default_prompt: "Use $motion-web-design to design and implement purposeful motion for this website, with responsive behavior and accessible fallbacks."
